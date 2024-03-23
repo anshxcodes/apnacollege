@@ -1,0 +1,304 @@
+*{
+    font-family: "Barlow", sans-serif;
+}
+.logo{
+    height: 45px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.container{
+    display: flex;
+    gap: 25px;
+    justify-content: end;
+    margin-right: 100px;
+    height: 26px;
+}
+button{
+    border-radius: 5%;
+    font-size: 16px;
+    padding: 20px;
+    border: 2px solid #6674CC ;
+}
+#but-one{
+    background-color: #6674CC;
+    color: white;
+}
+#but-two{
+    color: #6674CC;
+}
+section{
+    background-color: rgb(235, 224, 255);
+    height: 650px;
+    width: 100%;
+}
+.one{
+    font-size: 50px;
+    position: relative;
+    top: 30px;
+    left: 60px;
+    font-weight: 700;
+}
+.oye{
+    position: relative;
+    bottom: 350px;
+    left: 100px;
+    font-size: 24px
+}
+.ohoo{
+    background-color: #6674CC;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    bottom: 270px;
+    right: 160px;
+    border-radius: 5px;
+}
+.one-one{
+    color: #262626;
+    position: relative;
+    left: 40px;
+    top: 30px;
+}
+.one-two{
+    color: #6674CC;
+    position: relative;
+    left: 40px;
+    top: 30px;
+}
+.didi{
+    height: 420px;
+    position: relative;
+    left: 270px;
+    bottom: 250px;
+}
+span{
+    font-size: 17.6px;
+}
+.down{
+    height: 160px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    background-color: #6674CC;
+    padding-top: 20px;
+    font-stretch: extra-expanded;
+    width: 100%;
+}
+.down-down{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    position: relative;
+    bottom: 20px;
+}
+.small{
+    font-size: 16px;
+}
+.adver{
+    height: 200px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 80px;
+}
+#haha{
+    font-size: 18px;
+    color: #6674CC;
+}
+#hehe{
+    font-size: 20px;
+    color: #262626;
+}
+#hoho{
+    font-weight: 500;
+    font-size: 18px;
+}
+.explore{
+    color: white;
+    background-color: #6674CC;
+    font-weight: 800;
+    font-size: 18px;
+    position: relative;
+    left: 600px;
+    bottom: 60px;
+}
+.dream{
+    height: 500px;
+    background-color: #F8F8FD;
+}
+.lol{
+    position: relative;
+    top: 90px;
+}
+#tag{
+    text-align: center;
+    font-size: 30px;
+}
+.dat{
+    font-size: 30px;
+    color: #6674CC;
+    font-weight: 700;
+    font-stretch: expanded;
+}
+.mnc{
+    width: 120px;
+}
+.bigmnc1{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    position: relative;
+    top: 90px;
+}
+.bigmnc2{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    position: relative;
+    top: 120px;
+}
+.bigmnc3{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    position: relative;
+    top: 140px;
+}
+.bigmnc4{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 22px;
+    color: #262626;
+    font-stretch: extra-expanded;
+}
+.dream2{
+    background-color: #F8F8FD;
+}
+.photo{
+    text-align: center;
+    color: #6674CC;
+    font-size: 22px;
+    font-weight: 700;
+}
+.see{
+    color: white;
+    background-color: #6674CC;
+    position: relative;
+    left: 622px;
+    font-size: 19px;
+    font-weight: 700;
+    border-radius: 20%;
+}
+.after-dream{
+    color: #262626;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.success{
+    width: 1100px;
+    position: relative;
+    top: 40px;
+    left: 110px;
+}
+.social{
+    height: 450px;
+    background-color: #F8F8FD;
+    margin-top: 100px;
+}
+.media{
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    color: #262626;
+    position: relative;
+    top: 90px;
+}
+.box{
+    font-size: 24px;
+    font-weight: 400;
+    display: inline-flex;
+    gap: 30px;
+    margin-top: 0;
+    position: relative;
+    bottom: 30px;
+}
+.so-but1{
+    color: red;
+}
+.so-but2{
+    color: rgb(252, 0, 210);
+}
+.so-but3{
+    color: dodgerblue;
+}
+.iconpack{
+    display: flex;
+    position: relative;
+    top: 160px;
+    gap: 310px;
+    justify-content: center;
+}
+.icon{
+    width: 30px;
+}
+.icon-text1{
+    display: flex;
+    position: relative;
+    top: 142px;
+    gap: 258px;
+    justify-content: center;
+    font-size: 19px;
+    
+}
+.icon-text2{
+    display: flex;
+    position: relative;
+    top: 115px;
+    gap: 220px;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 15px;
+    font-stretch: extra-condensed;
+}
+.end-logo{
+    height: 45px;
+    width: 100px;
+}
+.mess-icon{
+    height: 13px;
+}
+.so-icon{
+    height: 15px;
+}
+.end{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin-top: 90px;
+    text-align: left;
+}
+.container1{
+    font-size: 18px;
+}
+.heading{
+    font-size: 18px;
+    font-weight: 700;
+    color: #262626;
+}
+#yoi{
+    font-size: 19px;
+}
+.copyright{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #262626;
+    margin-bottom: 80px;
+}
+.end{
+    height: 260px;
+}
